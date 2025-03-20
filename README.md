@@ -99,3 +99,17 @@ for epoch in range(epochs):  # Loop through each epoch
         y_true_labels = np.argmax(y_train, axis=1)  # Get true labels (original labels)
         accuracy = np.mean(y_pred_labels == y_true_labels)  # Calculate accuracy
         print(f"Epoch {epoch}, Loss: {loss:.4f}, Accuracy: {accuracy:.4f}")  # Print epoch info
+
+
+
+
+#Python 
+#NeuralNetwork 
+#DeepLearning 
+#MachineLearning 
+#MNIST 
+#NumPy 
+#AI 
+#DataScience 
+#HandwrittenDigitRecognition 
+#FeedforwardNetwork
